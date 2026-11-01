@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "trialtracker",
+  "version": "3.0.0",
+  "name": "Trial Tracker",
+  "description": "Показывает, сколько спавнеров и хранилищ осталось в Испытательной камере.",
+  "environment": "client",
+  "entrypoints": { "client": ["com.example.trialtracker.TrialTrackerClient"] },
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "1.21.4", "java": ">=21", "fabric-api": "*" }
+}

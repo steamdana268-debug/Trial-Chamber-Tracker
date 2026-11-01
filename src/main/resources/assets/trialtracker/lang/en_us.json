@@ -1,0 +1,18 @@
+{
+  "key.trialtracker.toggle": "Highlight menu",
+  "key.category.trialtracker": "Trial Tracker",
+  "trialtracker.highlight.on": "Trial highlight: ON",
+  "trialtracker.highlight.off": "Trial highlight: OFF",
+  "key.trialtracker.hud_edit": "Move counter",
+  "trialtracker.hud.hint": "Drag the counter with the mouse. R - reset, Esc - save",
+  "trialtracker.menu.title": "Trial highlight",
+  "trialtracker.menu.spawners": "Trial spawners: %s",
+  "trialtracker.menu.vaults": "Vaults: %s",
+  "trialtracker.menu.done": "Done",
+  "trialtracker.on": "ON",
+  "trialtracker.off": "OFF",
+  "trialtracker.menu.tracer": "Line to nearest: %s",
+  "trialtracker.menu.distance": "Distance labels: %s",
+  "trialtracker.stats": "Cleared %s | Opened %s | Chambers %s",
+  "trialtracker.cleared": "Trial chamber cleared!"
+}

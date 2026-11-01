@@ -1,0 +1,18 @@
+{
+  "key.trialtracker.toggle": "Меню подсветки",
+  "key.category.trialtracker": "Trial Tracker",
+  "trialtracker.highlight.on": "Подсветка испытаний: ВКЛ",
+  "trialtracker.highlight.off": "Подсветка испытаний: ВЫКЛ",
+  "key.trialtracker.hud_edit": "Переместить счётчик",
+  "trialtracker.hud.hint": "Перетащи счётчик мышью. R — сброс, Esc — сохранить",
+  "trialtracker.menu.title": "Подсветка испытаний",
+  "trialtracker.menu.spawners": "Испытательные спавнеры: %s",
+  "trialtracker.menu.vaults": "Хранилища: %s",
+  "trialtracker.menu.done": "Готово",
+  "trialtracker.on": "ВКЛ",
+  "trialtracker.off": "ВЫКЛ",
+  "trialtracker.menu.tracer": "Линия к ближайшей: %s",
+  "trialtracker.menu.distance": "Расстояние до целей: %s",
+  "trialtracker.stats": "Зачищено %s | Открыто %s | Камер %s",
+  "trialtracker.cleared": "Испытательная камера зачищена!"
+}
